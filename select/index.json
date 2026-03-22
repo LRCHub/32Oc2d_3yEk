@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Take It Easy",
+  "base_artist": "Eagles",
+  "createdAt": "2026-03-22T01:49:58.847396Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take It Easy - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/01_Take_It_Easy_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take It Easy",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/02_Take_It_Easy_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take It Easy (2006 Remaster)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/03_Take_It_Easy_(2006_Remaster)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take It Easy (2013 Remaster)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/04_Take_It_Easy_(2013_Remaster)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Relax, Take It Easy",
+      "artist": "MIKA",
+      "has_synced": true,
+      "path": "select/05_Relax,_Take_It_Easy_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Relax (Take It Easy)",
+      "artist": "Mika",
+      "has_synced": true,
+      "path": "select/06_Relax_(Take_It_Easy)_Mika.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take It Easy",
+      "artist": "The Vaccines",
+      "has_synced": true,
+      "path": "select/07_Take_It_Easy_The_Vaccines.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take It Easy",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/08_Take_It_Easy_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take It Easy",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/09_Take_It_Easy_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take It Easy",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/10_Take_It_Easy_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take It Easy",
+      "artist": "Surfer Blood",
+      "has_synced": true,
+      "path": "select/11_Take_It_Easy_Surfer_Blood.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take It Easy",
+      "artist": "Vanessa Carlton",
+      "has_synced": true,
+      "path": "select/12_Take_It_Easy_Vanessa_Carlton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take It Easy (Live Living Room Session)",
+      "artist": "Vanessa Carlton",
+      "has_synced": false,
+      "path": "select/13_Take_It_Easy_(Live_Living_Room_Session)_Vanessa_Carlton.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take It Easy Mama",
+      "artist": "Ladyhawke",
+      "has_synced": true,
+      "path": "select/14_Take_It_Easy_Mama_Ladyhawke.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Easy, Easy, Got To Take It Easy",
+      "artist": "Teddy Pendergrass",
+      "has_synced": true,
+      "path": "select/15_Easy,_Easy,_Got_To_Take_It_Easy_Teddy_Pendergrass.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take It Easy",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/16_Take_It_Easy_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Take It Easy (Live)",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/17_Take_It_Easy_(Live)_Eagles.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take It Easy",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/pl_01_Take_It_Easy_Eagles.txt"
+    }
+  ]
+}
